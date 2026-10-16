@@ -4,7 +4,7 @@
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.5.6** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.5.7** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-03-native-portrait)**
 https://motiongit.com/@adunext/template-03-native-portrait
