@@ -3,7 +3,7 @@
 Present products, examples and media on a dark dimensional stage with layered screens.
 
 Template & full download: https://motiongit.com/@adunext/template-03-native-portrait
-Version: 2.7.18-alpha.2
+Version: 2.7.18-alpha.3
 Download available; current terms are listed with the package.
 
 ## Technical reference
