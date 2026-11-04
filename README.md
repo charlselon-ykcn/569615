@@ -4,12 +4,12 @@
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.8** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.9** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-03-native-portrait)**
 https://motiongit.com/@adunext/template-03-native-portrait
 
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 ## Demo
 
