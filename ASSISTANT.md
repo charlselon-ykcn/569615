@@ -4,7 +4,7 @@ Present products, examples and media on a dark dimensional stage with layered sc
 
 Template & full download: https://motiongit.com/@adunext/template-03-native-portrait
 Version: 2.7.18-alpha.10
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
